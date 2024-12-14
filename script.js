@@ -136,13 +136,13 @@ let searcButton = document.getElementById("search-button");
 
 function loaderFunction() {
     generatingText.style.display = "block"; // Show the loader
-    resultText.style.display = "none";     // Hide the result text
+    resultText.style.color = "#2c2e31";     // Hide the result text
 }
 
 // Function to hide the loader and display the result text
 function displayResult() {
     generatingText.style.display = "none"; // Hide the loader
-    resultText.style.display = "block";    // Show the result text
+    resultText.style.color = "#646669";    // Show the result text
 }
 
 // Function to select a random project

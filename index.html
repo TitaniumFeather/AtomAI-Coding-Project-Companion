@@ -19,10 +19,10 @@
   </div>
 </div>
 <div id="intro">
-  Introducing  <div id="sdfg"><div id="text">AtomAI</div><div id="AtomAI"></div></div>
+  <div id="introduce">Introducing</div><div id="sdfg"><div id="text"><div id="AtomAI">AtomAI</div></div></div>
 </div>
 <div id="info-text">
-<div id="outline-one"></div>"Unlock <div class="yellow-color">limitless</div> coding creativity with <div class="yellow-color">AI-powered</div> project ideas"
+"Unlock limitless coding creativity with <div class="yellow-color">AI-powered project ideas"</div>
 <button id="try-atomai">Try AtomAI</button>
 </div>
 
@@ -54,14 +54,18 @@
         </select>
       </div>
     </div>
-    </div>
     <div id ="last-box" class="boundary-style">
-      <button id="codeResultButton" class="btn">Generate Project Idea</button>
-    <div id="codeResult" class="result-box">Results will appear here</div>
+      <button id="codeResultButton" class="btn">Generate Project Idea<img id="generating-logo" src="images/enter-svgrepo-com.svg"></button>
+      <div id="codeResult" class="result-box">Results will appear here<div id="generating-text"><div id="loader"></div>Generating...</div></div>      
+      <button onClick="window.location.reload();" id="reset-button">Reset</button>
+      <button id="search-button">Search this on Google</button>
     </div>
-    <div id="generating-text"><div id="loader"></div>Generating...</div>
-    <button onClick="window.location.reload();" id="reset-button">Reset</button>
-    <button id="search-button">Search this on Google</button>
+      
+  
+  </div>
+    
+    
+    <h1 id="topskill">Create Innovative Coding Projects</h1>
 </div>
 
 <script src="script.js"></script>
