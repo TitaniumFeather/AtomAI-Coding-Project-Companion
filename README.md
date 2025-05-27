@@ -1,5 +1,6 @@
 # AtomAI
-![Image Description](logo.png)
+![AtomAI Logo](logo.png)
+<img src="logo.png" alt="AtomAI Logo" width="300" />
 
 AtomAI is an AI-powered web platform that generates randomized coding project ideas based on your chosen programming language and skill level. Whether you’re just starting or you're an experienced developer looking for new challenges, AtomAI customizes project suggestions to help you practice, build your portfolio, and improve your coding skills.
 
