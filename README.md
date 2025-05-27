@@ -1,11 +1,11 @@
-#AtomAI
+# AtomAI
 AtomAI is an AI-powered web platform that generates randomized coding project ideas based on your chosen programming language and skill level. Whether you’re just starting or you're an experienced developer looking for new challenges, AtomAI customizes project suggestions to help you practice, build your portfolio, and improve your coding skills.
 
 Visit the website: atomai.duckns.org
 
 <!-- Example image placeholder -->
 
-#Features
+# Features
 Randomized Project Ideas: Get unique coding project suggestions every time you visit, tailored to your language preference.
 
 Skill Level Customization: Choose your skill level (Beginner, Intermediate, or Advanced) and get relevant project recommendations.
@@ -26,7 +26,7 @@ Ready to Get Started: Each project idea comes with a description and suggested t
 Screenshot: Main Page
 <!-- Replace with your actual image URL -->
 
-#How to Use
+# How to Use
 Go to the website: atomai.duckns.org.
 
 Select your preferred programming language.
@@ -48,10 +48,10 @@ Screenshot: Generated Project Idea
 <!-- Replace with your actual image URL -->
 
 
-#License
+# License
 AtomAI is licensed under the MIT License.
 
-#Contact
+# Contact
 For questions, suggestions, or feedback, you can reach out through the following:
 
 Email: youremail@example.com
